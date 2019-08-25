@@ -26,3 +26,17 @@ D:\Version\ПримерAngularAppCatalog\AngularAppCatalog\AngularAppCatalog\obj
 D:\Version\ПримерAngularAppCatalog\AngularAppCatalog\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.RazorTargetAssemblyInfo.cache
 D:\Version\ПримерAngularAppCatalog\AngularAppCatalog\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.dll
 D:\Version\ПримерAngularAppCatalog\AngularAppCatalog\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.pdb
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\bin\Debug\netcoreapp2.1\AngularAppCatalog.deps.json
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\bin\Debug\netcoreapp2.1\AngularAppCatalog.runtimeconfig.json
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\bin\Debug\netcoreapp2.1\AngularAppCatalog.runtimeconfig.dev.json
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\bin\Debug\netcoreapp2.1\AngularAppCatalog.dll
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\bin\Debug\netcoreapp2.1\AngularAppCatalog.pdb
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.csprojAssemblyReference.cache
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.csproj.CoreCompileInputs.cache
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.RazorAssemblyInfo.cache
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.RazorAssemblyInfo.cs
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.AssemblyInfoInputs.cache
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.AssemblyInfo.cs
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.RazorTargetAssemblyInfo.cache
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.dll
+C:\Projects\AngularApp\MVCAngularCatalogCRUD\AngularAppCatalog\obj\Debug\netcoreapp2.1\AngularAppCatalog.pdb

@@ -11801,11 +11801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Version\\ПримерAngularAppCatalog\\AngularAppCatalog\\AngularAppCatalog\\AngularAppCatalog.csproj",
+      "projectUniqueName": "C:\\Projects\\AngularApp\\MVCAngularCatalogCRUD\\AngularAppCatalog\\AngularAppCatalog.csproj",
       "projectName": "AngularAppCatalog",
-      "projectPath": "D:\\Version\\ПримерAngularAppCatalog\\AngularAppCatalog\\AngularAppCatalog\\AngularAppCatalog.csproj",
+      "projectPath": "C:\\Projects\\AngularApp\\MVCAngularCatalogCRUD\\AngularAppCatalog\\AngularAppCatalog.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Version\\ПримерAngularAppCatalog\\AngularAppCatalog\\AngularAppCatalog\\obj\\",
+      "outputPath": "C:\\Projects\\AngularApp\\MVCAngularCatalogCRUD\\AngularAppCatalog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

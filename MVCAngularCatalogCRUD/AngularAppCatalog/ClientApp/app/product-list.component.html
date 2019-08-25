@@ -1,0 +1,25 @@
+﻿<div class="container">
+    <h1 class="top-title">Каталог</h1>
+    <a routerLink="/create" class="btn-primary btn-lg btn-block pozition-center">Добавить</a>
+    <p></p>
+    <div class="row" *ngFor="let p of products">
+        <div class="col-xs-12 col-md-12 col-sm-12">
+            <div class="row product-row">
+                <div class="product pozition-center">
+                    <div class="col-md-4 product-img pozition-center">
+                        <img src="/img/testImg.jpg" alt="" />
+                    </div>
+                    <div class="col-md-2 product-title pozition-center">Модель: {{p?.name}}</div>
+                    <div class="col-md-2 product-title pozition-center">Производитель: {{p?.company}}</div>
+                    <div class="col-md-2 product-title pozition-center">Цена: {{p?.price}}</div>
+                    <div class="col-md-2">
+                        <div class="row pozition-center">
+                            <a [routerLink]="['edit', p.id]" class="btn btn-sm btn-warning pozition-center">Изменить</a>
+                            <button (click)="delete(p.id)" class="btn btn-sm btn-danger pozition-center">Удалить</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
